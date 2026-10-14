@@ -3,7 +3,7 @@
 <img src="assets/character-card.svg" alt="Asta — An ordinary person. 一个平平无奇的普通人" width="100%">
 
 <a href="https://github.com/MeChen618/AstaPS"><img src="https://img.shields.io/badge/now%20building-AstaPS-f0b35b?style=flat-square&logo=github" alt="Now building AstaPS"></a>
-<img src="https://img.shields.io/badge/Discord-mechen618-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: mechen618">
+<a href="https://discord.com/users/1275308844821512223"><img src="https://img.shields.io/badge/Discord-mechen618-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: mechen618"></a>
 
 <img src="assets/terminal.svg" alt="asta · an ordinary person. / sudo become-extraordinary → Permission denied. Still ordinary. Still shipping." width="100%">
 
