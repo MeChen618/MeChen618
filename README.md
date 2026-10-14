@@ -5,7 +5,7 @@
 <a href="https://github.com/MeChen618/AstaPS"><img src="https://img.shields.io/badge/now%20building-AstaPS-f0b35b?style=flat-square&logo=github" alt="Now building AstaPS"></a>
 <a href="https://discord.com/users/1275308844821512223"><img src="https://img.shields.io/badge/Discord-mechen618-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: mechen618"></a>
 
-<img src="assets/terminal.svg" alt="asta · an ordinary person. / sudo become-extraordinary → Permission denied. Still ordinary. Still shipping." width="100%">
+<img src="https://raw.githubusercontent.com/MeChen618/MeChen618/output/astaps-console.svg" alt="AstaPS server console: live stars, forks and open issues" width="100%">
 
 <img src="https://skillicons.dev/icons?i=java,gradle,mongodb,git,idea" alt="Java, Gradle, MongoDB, Git, IntelliJ IDEA">
 
