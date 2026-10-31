@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="850" height="470" viewBox="0 0 850 470" font-family="'JetBrains Mono','Cascadia Code','SFMono-Regular',Consolas,'DejaVu Sans Mono',monospace" font-size="13.5">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0f17"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff05"/></pattern>
+  </defs>
+  <rect width="850" height="470" rx="12" fill="url(#bg)" stroke="#263042"/>
+  <rect width="850" height="470" rx="12" fill="url(#scan)"/>
+  <rect width="850" height="38" rx="12" fill="#151c2a"/><rect y="26" width="850" height="12" fill="#151c2a"/>
+  <circle cx="22" cy="19" r="6" fill="#ff5f57"/><circle cx="42" cy="19" r="6" fill="#febc2e"/><circle cx="62" cy="19" r="6" fill="#28c840"/>
+  <text x="425.0" y="24" text-anchor="middle" fill="#7d86a8" font-size="12.5">AstaPS — server console</text>
+  <circle cx="820" cy="19" r="4" fill="#28c840"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="808" y="23.5" text-anchor="end" fill="#28c840" font-size="11.5">ONLINE</text>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="0.40s" fill="freeze"/>
+    <text x="24" y="62"><tspan fill="#56607a">[03:58:12 </tspan><tspan fill="#7ee787">INFO</tspan><tspan fill="#56607a">]</tspan><tspan fill="#c9d1e6">  Starting AstaPS · Grasscutter 7.1.0 (optimized)</tspan></text></g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="0.95s" fill="freeze"/>
+    <text x="24" y="87"><tspan fill="#56607a">[03:58:13 </tspan><tspan fill="#7ee787">INFO</tspan><tspan fill="#56607a">]</tspan><tspan fill="#c9d1e6">  Loading resources ........................ done in 1.2s</tspan></text></g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="1.50s" fill="freeze"/>
+    <text x="24" y="112"><tspan fill="#56607a">[03:58:14 </tspan><tspan fill="#7ee787">INFO</tspan><tspan fill="#56607a">]</tspan><tspan fill="#c9d1e6">  Dispatch server listening on 0.0.0.0:443</tspan></text></g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="2.05s" fill="freeze"/>
+    <text x="24" y="137"><tspan fill="#56607a">[03:58:15 </tspan><tspan fill="#7ee787">INFO</tspan><tspan fill="#56607a">]</tspan><tspan fill="#c9d1e6">  Game server listening on 0.0.0.0:22102</tspan></text></g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="2.60s" fill="freeze"/>
+    <text x="24" y="162"><tspan fill="#56607a">[03:58:16 </tspan><tspan fill="#7ee787">INFO</tspan><tspan fill="#56607a">]</tspan><tspan fill="#c9d1e6">  Player Asta joined · &quot;an ordinary person.&quot;</tspan></text></g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="3.15s" fill="freeze"/>
+    <text x="24" y="187"><tspan fill="#56607a">[03:58:17 </tspan><tspan fill="#f0b35b">WARN</tspan><tspan fill="#56607a">]</tspan><tspan fill="#c9d1e6">  Coffee level low. Continuing anyway.</tspan></text></g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="3.70s" fill="freeze"/>
+    <text x="24" y="212"><tspan fill="#56607a">[03:58:18 </tspan><tspan fill="#7ee787">INFO</tspan><tspan fill="#56607a">]</tspan><tspan fill="#c9d1e6">  /tps enabled · third-person shooting is live</tspan></text></g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="4.55s" fill="freeze"/>
+    <text x="24" y="243" fill="#7ee787">&gt;</text>
+    <text x="42.0" y="243" fill="#e6edf3" opacity="0">/<set attributeName="opacity" to="1" begin="4.70s" fill="freeze"/></text>
+    <text x="50.1" y="243" fill="#e6edf3" opacity="0">s<set attributeName="opacity" to="1" begin="4.79s" fill="freeze"/></text>
+    <text x="58.3" y="243" fill="#e6edf3" opacity="0">t<set attributeName="opacity" to="1" begin="4.88s" fill="freeze"/></text>
+    <text x="66.5" y="243" fill="#e6edf3" opacity="0">a<set attributeName="opacity" to="1" begin="4.97s" fill="freeze"/></text>
+    <text x="74.6" y="243" fill="#e6edf3" opacity="0">t<set attributeName="opacity" to="1" begin="5.06s" fill="freeze"/></text>
+    <text x="82.8" y="243" fill="#e6edf3" opacity="0">s<set attributeName="opacity" to="1" begin="5.15s" fill="freeze"/></text>
+    <rect x="93.9" y="231" width="8" height="15" fill="#e6edf3"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/></rect>
+  </g>
+  <g opacity="0" transform="translate(0 8)">
+    <set attributeName="opacity" to="1" begin="5.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="5.45s" dur=".35s" fill="freeze"/>
+    <rect x="24" y="290" width="186" height="92" rx="8" fill="#ffffff07" stroke="#f0b35b" stroke-opacity=".35"/>
+    <text x="38" y="314" fill="#7d86a8" font-size="11" letter-spacing="1.5">★ STARS</text>
+    <text x="38" y="356" fill="#f0b35b" font-size="34" font-weight="bold">39</text>
+  </g>
+  <g opacity="0" transform="translate(0 8)">
+    <set attributeName="opacity" to="1" begin="5.57s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="5.57s" dur=".35s" fill="freeze"/>
+    <rect x="226" y="290" width="186" height="92" rx="8" fill="#ffffff07" stroke="#6cc5ff" stroke-opacity=".35"/>
+    <text x="240" y="314" fill="#7d86a8" font-size="11" letter-spacing="1.5">⑂ FORKS</text>
+    <text x="240" y="356" fill="#6cc5ff" font-size="34" font-weight="bold">15</text>
+  </g>
+  <g opacity="0" transform="translate(0 8)">
+    <set attributeName="opacity" to="1" begin="5.69s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="5.69s" dur=".35s" fill="freeze"/>
+    <rect x="428" y="290" width="186" height="92" rx="8" fill="#ffffff07" stroke="#ff7b72" stroke-opacity=".35"/>
+    <text x="442" y="314" fill="#7d86a8" font-size="11" letter-spacing="1.5">● OPEN ISSUES</text>
+    <text x="442" y="356" fill="#ff7b72" font-size="34" font-weight="bold">7</text>
+  </g>
+  <g opacity="0" transform="translate(0 8)">
+    <set attributeName="opacity" to="1" begin="5.81s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="5.81s" dur=".35s" fill="freeze"/>
+    <rect x="630" y="290" width="186" height="92" rx="8" fill="#ffffff07" stroke="#7ee787" stroke-opacity=".35"/>
+    <text x="644" y="314" fill="#7d86a8" font-size="11" letter-spacing="1.5">▲ TPS</text>
+    <text x="644" y="356" fill="#7ee787" font-size="34" font-weight="bold">20.0</text>
+    <polyline points="726,347.4 732,342.6 738,345.5 744,348.7 750,347.3 756,347.9 762,351.4 768,349.0 774,342.9 780,343.7 786,348.9 792,349.0 798,347.3 804,349.8" fill="none" stroke="#7ee787" stroke-width="1.6" stroke-opacity=".8"/>
+  </g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="6.15s" fill="freeze"/>
+    <line x1="24" y1="408" x2="826" y2="408" stroke="#263042"/>
+    <text x="24" y="436" fill="#7d86a8" font-size="12">Asta · USA · Java ☕   discord: <tspan fill="#a5b4fc">mechen618</tspan></text>
+    <text x="826" y="436" text-anchor="end" fill="#56607a" font-size="11.5">updated 2026-10-31 UTC · TPS = ticks/s · /tps = third-person shooting</text>
+  </g>
+</svg>
