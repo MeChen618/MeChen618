@@ -35,7 +35,7 @@ def fetch_stats():
 def render(stars, forks, issues, now):
     W, H, TOP, LH = 850, 470, 62, 25
     log = [
-        ("INFO", "#7ee787", "Starting AstaPS · Grasscutter 7.1.0 (optimized)"),
+        ("INFO", "#7ee787", "Starting AstaPS · Grasscutter 7.2.0 (optimized)"),
         ("INFO", "#7ee787", "Loading resources ........................ done in 1.2s"),
         ("INFO", "#7ee787", "Dispatch server listening on 0.0.0.0:443"),
         ("INFO", "#7ee787", "Game server listening on 0.0.0.0:22102"),
